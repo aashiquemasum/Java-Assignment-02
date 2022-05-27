@@ -160,15 +160,38 @@ includes byte , short , int , long , float , double , boolean and char.
 
 12)What data type would you use for storing the number of students in a class?
 
+Int
+
+
+13)What data type would you use for storing the average test score in a class?
+
+long int
+
+
+14)How would you declare a variable storing the tax rate?
+
+double taxRate = 5.1;
+
+15)How would you declare a variable that tells the grade (A, B, C, or D) of students?
+
+
+A variable is a symbolic name for (or reference to) information. The variable's name represents what information the variable contains. They are called variables because the represented information can change but the operations on the variable remain the same. In general, a program should be written with "Symbolic" notation, such that a statement is always true symbolically. For example if I want to know the average of two grades, We can write "average = (grade_1 + grade_2) / 2.0;" and the variable average will then contain the average grade regardless of the scores stored in the variables, grade_1 and grade_2.
+
+16)List the name conventions you learned in class about variables.
+
+For variables, the Java naming convention is to always start with a lowercase letter and then capitalize the first letter of every subsequent word. Variables in Java are not allowed to contain white space, so variables made from compound words are to be written with a lower camel case syntax.
+
+
+17)Name the Data type used for an object 'Pen'.
+
+
+Object Data Type: These are also referred to as Non-primitive or Reference Data Type. They are so-called because they refer to any particular objects. Unlike the primitive data types, the non-primitive ones are created by the users in Java. Examples include arrays, strings, classes, interfaces etc.
+
+
+18)Write a program and declare the variable of each data type you learned in class. Initialize each variable with appropriate values and print them.
 
 
 
-What data type would you use for storing the average test score in a class?
-How would you declare a variable storing the tax rate?
-How would you declare a variable that tells the grade (A, B, C, or D) of students?
-List the name conventions you learned in class about variables.
-Name the Data type used for an object 'Pen'.
-Write a program and declare the variable of each data type you learned in class. Initialize each variable with appropriate values and print them.
 Write a program to print your name, email, address, phone number, and id.
 What do you understand by typecasting?
 In which type casting Java automatically converts one data type to another data type?
@@ -189,35 +212,4 @@ Write a program to get a substring of the string “Let this be the last year th
 Write a Java program to convert all the characters in a string “YourName” to lowercase.
 Write a Java program to convert all the characters in a string “YourName” to uppercase.
 Write a program to reverse a string “ Java is my favorite”.
-Assignment 3 (Operators)
-What are operators?
-Write the types of operators you studied in class.
-The operators used in Arithmetic expressions can be classified into which type?
-Examine the following code. The programmer is not getting the same value for result and result2. Why? double result = (20-10/3); double result = ((20-10)/3);
-Write a program to check if the two numbers 23 and 45 are equal.
-Write a Java program to find the value of specified expression. a. 301 + 0) / 5 b. 7.0e-6 * 10000000.1 c. true && true d. false && true e. (false && false) || (true && true) f. (false || false) && (true && true)
-Length and breadth of a rectangle are 9 and 5 respectively. Write a program to calculate the area and perimeter of the rectangle.
-Write a program to calculate the perimeter of a triangle having sides of length 9,6 and 5 units.
-Write a program to find if both the conditions 'a < 50' and 'a < b' are true when value of a is 45 and b is 67.
-Write a program to find total marks and percentage of students when his marks in three subjects are 87, 39 and 52 respectively (each out of 100 ).
-Write a program to convert temperature from Fahrenheit to Celsius degree. (You can take temperature of your choice)
-Write a program to find largest number among three numbers: 76,54 and 89.
-Write a program to find smallest number among three numbers: 76,54 and 89.
-If num1=5 and num2=4 then write a program to swap values of these numbers.
-Write a program to convert positive number to negative number. (You can take any number of your choice)
-Consider the following code snippet. arrayOfInts[j] > arrayOfInts[j+1] a. Which operators does the code contain?
-Consider the following code snippet. int i = 10; int n = i++%5; a. What are the values of i and n after the code is executed? b. What are the final values of i and n if instead of using the postfix increment operator (i++), you use the prefix version (++i))?
-To invert the value of a boolean, which operator would you use?
-Write a program to show the difference between postfix expr ++ and prefix ++ expr operators. In the comments of your program explain each line of code.
-Write a program to show the difference between postfix expr -- and prefix -- expr operators. In the comments of your program explain each line of code.
-Which operator is used to compare two values, = or == ?
-Explain the following code sample: result = someCondition ? value1 : value2;
-Write a program to divide 154 with 7.
-Write a program to print the sum, product, difference, divide and remainder of two numbers (First number=579 and second number=17).
-Write a Java program to print the area and perimeter of a circle when radius of circle is 4.2 cm.
-Write a program that compares two number 13 and 16 are not equal.
-Write a program to decrease value of variable by 1 without using arithmetic operator. (Value of variable is 13)
-Write a program to increase value of variable by 1 without using arithmetic operator. (Value of variable is 13)
-Write a program that shows the message true first number is greater than second number or third number. (First number= 23, Second number = 32 and third number = 15).
-Write a program that shows message true first number is greater than second number and third number. (First number= 23, Second number = 32 and third number = 15).
 
