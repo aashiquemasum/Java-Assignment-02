@@ -242,10 +242,11 @@ Widening casting is done automatically when passing a smaller size type to a lar
 
 
 
+
 25) Write a program to convert string to int and print a message stating which type casting you did?
 
+<img width="960" alt="string -int" src="https://user-images.githubusercontent.com/102998720/170810241-02686744-75fd-424b-8316-2390093ba251.png">
 
-<img width="960" alt="str-int" src="https://user-images.githubusercontent.com/102998720/170808531-822cdba1-020c-444e-81c3-e18cb27b1e6a.png">
 
 26)Write a program to convert float to double and print a message stating which type casting you did?
 
