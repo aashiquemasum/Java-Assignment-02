@@ -249,13 +249,33 @@ Widening casting is done automatically when passing a smaller size type to a lar
 
 
 26)Write a program to convert float to double and print a message stating which type casting you did?
+<img width="960" alt="floattoduble" src="https://user-images.githubusercontent.com/102998720/171037602-3da74792-f156-45d6-8c2f-648fd22706c6.png">
 
 
 
-Write a program to convert byte to float and print a message stating which type casting you did?
-Write a Java program to get the character at the 5th index of the String “automation”.
-Write a program to find the length of the string "automation".
-Write a Java program to concatenate a string “Java” to the end of another string “C#”.
+27)Write a program to convert byte to float and print a message stating which type casting you did?
+
+
+
+<img width="960" alt="byte to float" src="https://user-images.githubusercontent.com/102998720/171037929-684af842-3f3e-42cb-ac25-8cddf0af8cad.png">
+
+
+28)Write a Java program to get the character at the 5th index of the String “automation”.
+
+
+<img width="960" alt="java2 27" src="https://user-images.githubusercontent.com/102998720/171038696-51e91a5d-0f79-428a-b71b-864aee622dd2.png">
+
+29)Write a program to find the length of the string "automation".
+
+
+<img width="960" alt="java2 29" src="https://user-images.githubusercontent.com/102998720/171039292-026a4627-af69-479f-8af3-5a9cbfc19e99.png">
+
+
+30)Write a Java program to concatenate a string “Java” to the end of another string “C#”.
+
+
+
+
 Write a Java program to compare a string “automation” and another string “Automation”.
 Write a Java program to check whether a string “Software” ends with the contents of another string “Hardware”.
 Write a Java program to replace a character “n” with character “m” in the string “Automation”.
